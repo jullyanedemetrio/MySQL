@@ -24,4 +24,3 @@ select * from tb_funcionarios where salario > 2000;
 select * from tb_funcionarios where salario < 2000;
 
 update tb_funcionarios set salario = 1800.00 where id = 1;
-
